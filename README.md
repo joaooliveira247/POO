@@ -2,7 +2,7 @@
 
 # Roadmap:scroll::
 
-- [Classes](classes.md)
+- [Classes](class.md)
 - [Métodos de Classes](class_methhod.md)
 - [Getter e setter](getter_and_setter)
 
