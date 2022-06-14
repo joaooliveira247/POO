@@ -2,12 +2,14 @@
 
 - ***Atributo x Método:***
     - ***Atributo:***
+
         Podemos dizer de forma grosseira que o atributo de uma classe é uma variável de uma classe.
         ```python3
         class Personagem:
             mana = 200
         ```
     - ***Método:***
+
         Podemos dizer de forma grosseira que o método de uma classe é uma função de uma classe.
         ```python3
         class Personagem:
@@ -16,6 +18,7 @@
         ```
 
 - ***"self":***
+
     O self é usado em classes para indicar que você está referenciando alguma coisa do próprio objeto (sejam eles atributos ou métodos) - na verdade, o self é o próprio objeto em si.
     ```python3
     class Personagem:
@@ -29,27 +32,31 @@
 - ***Métodos especias:***
 
     - ***\_\_init__:***
-    É um método chamado toda vez q a classe é instanciada
+ 
+        É um método chamado toda vez q a classe é instanciada.
 
         ```python3
-        class Personagem:
-            def __init__(self, name: str) -> None:
-            # método construtor: ele irá iniciar toda vez q a classe for chamada.
-            self.name = name
-            
-            def print_name(self) -> str:
-                print(self.name)
-        ```
-    - ***\_\_str__:***
-    Usado para retornar uma representação de string de um objeto.
-        - sem o método \_\_str__:
-            ```python3
             class Personagem:
-                pass
-            ```
+                def __init__(self, name: str) -> None:
+                # método construtor: ele irá iniciar toda vez q a classe for chamada.
+                self.name = name
+
+         ```
+
+
+    - ***\_\_str__:***
+ 
+        Usado para retornar uma representação de string de um objeto.
+         - sem o método \_\_str__:
+         
+              ```python3
+              class Personagem:
+                  pass
+              ```
             `
             out:
             `
+      
             ![not_str_method](/pictures/classes/not_str_method.png)
         - com o método \_\_str__:
             ```python3
@@ -60,6 +67,7 @@
             `
             out:
             `
+            
             ![str_method](/pictures/classes/str_method.png)
 
 - ***Instanciando uma classe:***
@@ -76,8 +84,11 @@
     `
     In:
     `
+    
     ![instance_in](/pictures/classes/instance_in.png)
+    
     `
     Out:
     `
+    
     ![instance_out](/pictures/classes/instance_out.png)
