@@ -19,7 +19,8 @@
 
 - ***"self":***
 
-    O self é usado em classes para indicar que você está referenciando alguma coisa do próprio objeto (sejam eles atributos ou métodos) - na verdade, o self é o próprio objeto em si.
+    O uso do "self" como primeiro parámetro de um método é convencional segundo a [PEP8](https://peps.python.org/pep-0008/).
+    O self é usado em classes para indicar que está referenciado alguma coisa do próprio objeto (sejam eles atributos ou métodos) - na verdade, o self é o próprio objeto em si.
     ```python3
     class Personagem:
         def __init__(self, name: str) -> None:
@@ -71,6 +72,7 @@
             ![str_method](/pictures/classes/str_method.png)
 
 - ***Instanciando uma classe:***
+
     Para instanciarmos uma classe, basta fazermos como qual uma variável.
     ```python3
     class Personagem:
