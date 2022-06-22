@@ -3,7 +3,8 @@
 # Roadmap:scroll::
 
 - [Classes](class.md)
-- [Métodos de Classes](class_methhod.md)
+- [Métodos de Classes](class_method.md)
+- [Métodos estáticos](static_method.md)
 - [Getter e setter](getter_and_setter)
 
 # Recomendações:
