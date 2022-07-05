@@ -30,6 +30,7 @@ Para isso usaremos os decoradores:
     > **_Observação_:**
     >
     > se o método tiver uma docstring o atributo terá uma também.
+    > 
     > ![docstring](./pictures/getter_setter/docstring.png)
 
     `out:`
