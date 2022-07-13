@@ -66,7 +66,7 @@ class Personagem:
 basta chama-lo da seguinte forma:
 >
 > ```bash
->instância._Classe.(método ou atributo)
+>instância._Classe(método ou atributo)
 >```
 >
 >`out:`
