@@ -3,7 +3,7 @@
 Usado para criar funções de utilidade.
 - não tem referência da classe.
 - não tem acesso aos atributos de instância nem aos de classe.
-- pode-se dizer que não se passam de uma "função comoum". 
+- pode-se dizer que não se passam de uma "função comum". 
 
 ```python3
 from typing import Optional
