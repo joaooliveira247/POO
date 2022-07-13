@@ -6,7 +6,7 @@
 - [Métodos de Classes](class_method.md)
 - [Métodos estáticos](static_method.md)
 - [Getter e setter](getter_and_setter.md)
-- [Encapsulamento]()
+- [Encapsulamento](encapsulation.md)
 
 # Recomendações:
 
