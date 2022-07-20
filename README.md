@@ -7,6 +7,9 @@
 - [Métodos estáticos](static_method.md)
 - [Getter e setter](getter_and_setter.md)
 - [Encapsulamento](encapsulation.md)
+- [Associação](association.md)
+- [Agregação](aggregation.md)
+- [Composição](composition.md)
 
 # Recomendações:
 
