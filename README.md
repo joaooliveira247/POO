@@ -10,6 +10,8 @@
 - [Associação](association.md)
 - [Agregação](aggregation.md)
 - [Composição](composition.md)
+- [Herança](inheritance.md)
+- [Herança Multipla]()
 
 # Recomendações:
 
