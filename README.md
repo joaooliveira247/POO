@@ -11,7 +11,7 @@
 - [Agregação](aggregation.md)
 - [Composição](composition.md)
 - [Herança](inheritance.md)
-- [Herança Multipla]()
+- [Herança Multipla](multiple_inheritance.md)
 
 # Recomendações:
 
