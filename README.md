@@ -12,6 +12,7 @@
 - [Composição](composition.md)
 - [Herança](inheritance.md)
 - [Herança Multipla](multiple_inheritance.md)
+- [Sobreposição de métodos](method_overlay.md) 
 
 # Recomendações:
 
