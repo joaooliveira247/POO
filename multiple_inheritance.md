@@ -45,5 +45,6 @@ class Spectate(BlueTeam, RedTeam):
 ![multiple_inheritance](./pictures/multiple_inheritance/out.png)
 
 > **__Note:__**
+>
 >Como a classe Spectate herda tanto de BlueTeam, quanto de RedTeam somo capazes de acessar os metodos send_message de ambas.
 >
