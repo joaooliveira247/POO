@@ -38,4 +38,4 @@ class Lux(Personagem):
 > **__Note:__**
 >
 > - Quando tentamos instanciar a classe pai, o python emite um TypeError falando que  a classe Personagem com o método abstrato send_message() não pode ser instanciada.
-> - Portando a classe pai não destina-se a ser instanciad.a
+> - Portando a classe pai não destina-se a ser instanciada
